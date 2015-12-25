@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CustomKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Keyboard.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>1870C6FE1BF41EF0004FDF69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1870C7141BF41F62004FDF69</key>
 		<dict>
 			<key>primary</key>
 			<true/>
